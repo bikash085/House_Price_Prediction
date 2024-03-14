@@ -1,0 +1,30 @@
+House Price Predection Machine Learning Projects:
+Agenda:
+1. Business Problem
+2. Data Collection
+3. Tools set up for projects.
+4. Load Data
+5. Data Pre-processing
+6. Make Data Ready For Training purpose
+7. ML Model Selection
+8. Model training
+9. Cross Validation
+10. Fine Tune Model
+11. ML Model Testing
+12. Present solution
+13. Create web Application.
+14. Model Deployment(windows/ubuntu)
+15. Model Monitor and Maintain
+
+Business Problem:
+Predict the price of house using it's multiple features
+of house like: size of house,no. of rooms,location ,age,
+floor, type of house.
+
+Data Collection:
+Data collection is the process of gathering and measuring
+information on variables of interest, in an established 
+systematic fashion that enables one to answer stated 
+research questions, test hypothesis, and evaluate outcomes.
+
+
